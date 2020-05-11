@@ -1,0 +1,74 @@
+{"navigations":[
+{
+  "title":
+     "Telegram",
+  "link":
+     "https://t.me/joinchat/LyzbrBTBqeQR-63i1m7wMg",
+  "behavior":
+     "EXTERNAL",
+  "premium":
+     "false",
+  "icon":
+     "telegram"
+ },
+{
+  "title":
+     "preguntas y pedidos",
+  "link":
+     "https://chat.whatsapp.com/FKsPON1vuIMCdZ8TLTtyCD",
+  "behavior":
+     "EXTERNAL",
+  "premium":
+     "false",
+  "icon":
+     "whatsapp"
+ },
+ {
+  "title":
+     "Terminos y condiciones",
+  "link":
+     "http://chota.epizy.com/index.php?admin/terminoscondiciones",
+  "behavior":
+     "EXTERNAL",
+  "premium":
+     "false",
+  "icon":
+     "list_alt"
+ },
+ {
+  "title":
+     "Tv",
+  "link":
+     "http://pollaloca.ueuo.com/tliriocooo.php?v=L4MmtRqo81",
+  "behavior":
+     "INAPP",
+  "premium":
+     "false",
+  "icon":
+     "desktop"
+ },
+ {
+  "title":
+     "Extension",
+  "link":
+     "https://inicioydemas.blogspot.com/2020/05/extension.html",
+  "behavior":
+     "EXTERNAL",
+  "premium":
+     "false",
+  "icon":
+     "desktop"
+ },
+ {
+  "title":
+     "Test",
+  "link":
+     "https:\/\/www.google.com\/",
+  "behavior":
+     "EXTERNAL",
+  "premium":
+     "false",
+  "icon":
+     "hand_peace_o"
+ }
+]}
