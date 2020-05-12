@@ -2,7 +2,7 @@
 "app":{
  "system":{
 	"base_url":{
-	"url":					"https://mavispol.000webhostapp.com/redmeibispro.php",
+	"url":					"https://chesummare.herokuapp.com/",
 	"certificate":				"SECURE"},
 	"email_address":
 {
