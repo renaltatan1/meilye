@@ -2,7 +2,7 @@
 "app":{
  "system":{
 	"base_url":{
-	"url":					"https://chesummare.herokuapp.com/",
+	"url":					"https://antud-9f386.firebaseapp.com/",
 	"certificate":				"SECURE"},
 	"email_address":
 {
