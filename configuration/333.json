@@ -47,10 +47,10 @@
 },
 "admob":
 {
-	"app_id":				"ca-app-pub-1458806731385842~3838025970",
-	"native_unit":				"ca-app-pub-1458806731385842\/2345266311",
-	"interstitial_unit":			"ca-app-pub-1458806731385842\/1751397617",
-	"rewarded_unit":			"ca-app-pub-1458806731385842\/9438315941"
+	"app_id":				"ca-app-pub-3940256099942544~3347511713",
+	"native_unit":				"ca-app-pub-3940256099942544/2247696110",
+	"interstitial_unit":			"ca-app-pub-3940256099942544/1033173712",
+	"rewarded_unit":			"ca-app-pub-3940256099942544/5224354917"
 },
 "providers":
 {
