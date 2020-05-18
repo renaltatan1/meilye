@@ -43,7 +43,7 @@
   "behavior":
      "INAPP",
   "premium":
-     "false",
+     "true",
   "icon":
      "external_link"
  },
