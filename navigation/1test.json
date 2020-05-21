@@ -94,5 +94,17 @@
      "false",
   "icon":
      "hand_peace_o"
+ },
+ {
+  "title":
+     "Tutorial",
+  "link":
+     "https://cdpn.io/agolaokoth/fullpage/yLYZYNL",
+  "behavior":
+     "INAPP",
+  "premium":
+     "false",
+  "icon":
+     "hand_peace_o"
  }
 ]}
