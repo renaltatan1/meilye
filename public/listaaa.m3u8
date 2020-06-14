@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/334.png" group-title="Animacion",Animacionfeo Boomerang
-http://thagui-group-bolivia.com:25461/live/piiPLcWnbS/Descarga-Desde-PlayStore-GnulaGo-Lite-GRATIS/16561.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Robotech" tvg-logo="" group-title="24/7",24/7 Robotech
-http://thagui-group-bolivia.com:25461/live/piiPLcWnbS/Descarga-Desde-PlayStore-GnulaGo-Lite-GRATIS/16561.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="KIDS",NIÑOS | BOOMERANG
 http://thagui-group-bolivia.com:25461/live/piiPLcWnbS/Descarga-Desde-PlayStore-GnulaGo-Lite-GRATIS/16561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="KIDS",NIÑOS | BABY TV
+http://thagui-group-bolivia.com:25461/live/piiPLcWnbS/Descarga-Desde-PlayStore-GnulaGo-Lite-GRATIS/16559.mp4
