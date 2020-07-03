@@ -1,0 +1,98 @@
+{"navigations":[
+{
+  "title":
+     "Telegram",
+  "link":
+     "https://t.me/joinchat/LyzbrBTBqeQR-63i1m7wMg",
+  "behavior":
+     "EXTERNAL",
+  "premium":
+     "false",
+  "icon":
+     "telegram"
+ },
+{
+  "title":
+     "Whatsapp",
+  "link":
+     "https://chat.whatsapp.com/FKsPON1vuIMCdZ8TLTtyCD",
+  "behavior":
+     "EXTERNAL",
+  "premium":
+     "false",
+  "icon":
+     "whatsapp"
+ },
+ {
+  "title":
+     "Youtube",
+  "link":
+     "https://www.youtube.com/channel/UCEZMnlkOLQflk7zb9rvn2Tg",
+  "behavior":
+     "EXTERNAL",
+  "premium":
+     "false",
+  "icon":
+     "youtube"
+ },
+{
+  "title":
+     "Reportar error",
+  "link":
+     "https://api.whatsapp.com/send?phone=51930115198&text=Hola%20meibis%20tengo%20un%20problema",
+  "behavior":
+     "EXTERNAL",
+  "premium":
+     "false",
+  "icon":
+     "frown_o"
+ },
+ {
+  "title":
+     "Terminos y condiciones",
+  "link":
+     "https://run.plnkr.co/plunks/LijQ9T28xopHQqzt/politic/privacidad.html",
+  "behavior":
+     "INAPP",
+  "premium":
+     "false",
+  "icon":
+     "list_alt"
+ },
+ {
+  "title":
+     "Tv Tutorial",
+  "link":
+     "https://maviscruel.blogspot.com/2020/06/iptv-canales.html",
+  "behavior":
+     "EXTERNAL",
+  "premium":
+     "false",
+  "icon":
+     "television"
+ },
+ {
+  "title":
+     "Descargar GSE IPTV PREMIUN",
+  "link":
+     "https://www.dropbox.com/s/ukjgvafe9tyykmr/GSE%20IPTV_com.gsetech.smartiptv.apk?dl=0",
+  "behavior":
+     "EXTERNAL",
+  "premium":
+     "false",
+  "icon":
+     "key"
+ },
+ {
+  "title":
+     "Extension Exo player Premium",
+  "link":
+     "https://www.dropbox.com/s/7ajbf3onxcbd5wj/ExoPlayer_com.moviestime.exoplayer.apk?dl=0",
+  "behavior":
+     "EXTERNAL",
+  "premium":
+     "false",
+  "icon":
+     "puzzle_piece"
+ }
+]}
