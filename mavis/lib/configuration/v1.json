@@ -8,12 +8,12 @@
 {
 	"email":				"meibis.oficial@gmail.com"},
 	"privacy_policy": {
-	"url":					"http://chota.epizy.com/index.php?general/privacypolicy",
+	"url":					"https://renaltatan.github.io/meilye/mavis/politic/privacidad.html",
 	"target":				"INAPP",
 	"response":				"ENABLED"
 },
 	"terms_of_use": {
-	"url":					"http://chota.epizy.com/index.php?general/privacypolicy",
+	"url":					"https://renaltatan.github.io/meilye/mavis/politic/dmc.html",
 	"target":				"INAPP",
 	"response":				"ENABLED"
 },
