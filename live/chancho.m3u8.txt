@@ -1,0 +1,315 @@
+# EXTM3U
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title = "KIDS" , NIÑOS | BOOMERANG
+http://appstv.us:2999/Maganates/Test/58
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px -Cartoon_Network_2010_logo.svg.png "group-title =" KIDS ", NIÑOS | Cartoon Network
+http://appstv.us:2999/Maganates/Test/63
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/330.png "group-title =" KIDS ", NIÑOS | Discovery Kids
+http://appstv.us:2999/Maganates/Test/76
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/312.png "group-title =" KIDS ", NIÑOS | canal Disney
+http://appstv.us:2999/Maganates/Test/82
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/315.png "group-title =" KIDS ", NIÑOS | Disney Junior
+http://appstv.us:2999/Maganates/Test/83
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/316.png "group-title =" KIDS ", NIÑOS | Disney XD
+http://appstv.us:2999/Maganates/Test/84
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/318.png "group-title =" KIDS ", NIÑOS | Natgeo Kids
+http://appstv.us:2999/Maganates/Test/132
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/309.png "group-title =" KIDS ", NIÑOS | Nick Jr.
+http://appstv.us:2999/Maganates/Test/137
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/308.png "group-title =" KIDS ", NIÑOS | Nick 2
+http://appstv.us:2999/Maganates/Test/136
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" group-title = "NIÑOS", NIÑOS | Nick 2
+http://appstv.us:2999/Maganates/Test/136
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/d/d5/Nicktoons-Network-original-balloon -text-logo.png "group-title =" NIÑOS ", NIÑOS | Nicktoon
+http://appstv.us:2999/Maganates/Test/138
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://lh3.googleusercontent.com/proxy/DxcwRFopQcGonYz-AwpCKccblOH7TIZpV0ESSxkKKXrTd8AFHAwyaIg-xuZM6L_T2R-RsZvnUewxuxklZegWTdXA4ir6NKBY5EqssZ84oS2A-BDbjcsFWIws8_da" grupo -title = "NIÑOS", NIÑOS | Toon cast
+http://appstv.us:2999/Maganates/Test/158
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/8fe650a10fd742e7ab77f7a212ac34dd.png" grupo -title = "Premium", x | Acción Premium Fox
+http://appstv.us:2999/Maganates/Test/98
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/c53fa4d850135512b6566cd9a2746589.png" grupo -title = "Premium", x | Fox Premium Cinema
+http://appstv.us:2999/Maganates/Test/99
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/0486b03380a58c2f82211daa8aa56c42.png" grupo -title = "Premium", x | Fox Premium Classics
+http://appstv.us:2999/Maganates/Test/100
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/15ccfb99561ffbc32c38a50289ccc223.png" grupo -title = "Premium", x | Familia Fox Premium
+http://appstv.us:2999/Maganates/Test/101
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/e951abb69208693ba88232924325db6d.png" grupo -title = "Premium", x | Fox Premium Series
+http://appstv.us:2999/Maganates/Test/104
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/ff5642fb5e64b97d24fa7fd5b0643fe8.png" grupo -title = "Premium", x | Fox Premium Movies
+http://appstv.us:2999/Maganates/Test/103
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/9a304c76972d3dbef05a1001dd6249af.png" grupo -title = "Premium", x | Golden Plus
+http://appstv.us:2999/Maganates/Test/117
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/8e9d7215e891ee03f0fa1dd0520380a8.png" grupo -title = "Premium", x | Familia HBO
+http://appstv.us:2999/Maganates/Test/120
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/c7863ca6153e211787fca3ca37eb712c.png" grupo -title = "Premium", x | HBO Plus
+http://appstv.us:2999/Maganates/Test/121
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/d1dc9f679c481f814452e51f8d61894d.png" grupo -title = "Premium", x | HBO Xtreme
+http://appstv.us:2999/Maganates/Test/128
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/514a8a4f2f2addb15bf463995e0c6470.png" grupo -title = "Ultra Tv", x | Ultra clasico
+http://appstv.us:2999/Maganates/Test/165
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/172d26d45c1359ad9a8aabfa6ad8b831.png" grupo -title = "Ultra Tv", x | Ultra Tainment
+http://appstv.us:2999/Maganates/Test/172
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/0b48b6c3085c033fbd37e382ec68e095.png" grupo -title = "Ultra Tv", x | Ultra Mex
+http://appstv.us:2999/Maganates/Test/171
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/cbed6a404b3731c6664f823ab0135dfa.png" grupo -title = "Ultra Tv", x | Ultra Film
+http://appstv.us:2999/Maganates/Test/169
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/501d167c408e2b29f764b7827e65d60f.png" grupo -title = "Ultra Tv", x | Ultra Fiesta
+http://appstv.us:2999/Maganates/Test/168
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/f164d46dddb95f1c32660e671e76074c.png" grupo -title = "Ultra Tv", x | Ultra Familia
+http://appstv.us:2999/Maganates/Test/167
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/f1fa9359ab775c35dae9cfaa7de565e9.png" grupo -title = "Ultra Tv", x | Ultra Cine
+http://appstv.us:2999/Maganates/Test/164
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/26f9dbb8f3df63ce609bb0b2a07f6c35.png" grupo -title = "Noticia", x | CNN en Español
+http://appstv.us:2999/Maganates/Test/67
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/5861d6bd084115473e3e5436721cf1b7.png" grupo -title = "Deportes", x | Movistar Liga de Campeones
+http://appstv.us:2999/Maganates/Test/57
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/24d10db640d795d7b1af94943d2f17d5.png" grupo -title = "Deportes", x | Fox Sports Premium
+http://uruguayiptv.com:25461/Richard2018/Richard2018/464
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/cd47f85d200ec6f728e3e8141303cd36.png" grupo -title = "Deportes", x | Fox Sports
+http://appstv.us:2999/Maganates/Test/552
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/da9d162da98eda4d0f65a0a6e3e175ad.png" grupo -title = "Deportes", x | Fox Sports 2
+http://appstv.us:2999/Maganates/Test/552
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/ec6cbc8905731ab3d7ee54cec6d2deb6.png" grupo -title = "Deportes", x | Fox Sports 3
+http://appstv.us:2999/Maganates/Test/107
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/360be6fcf2c86917305ca7f6f88aae17.png" grupo -title = "Deportes", x | Claro Sports
+http://appstv.us:2999/Maganates/Test/107
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/ccb558720a3bb4186d5aa5733c8d7927.png" grupo -title = "Deportes", x | Espn 1
+http://appstv.us:2999/Maganates/Test/89
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/fd5c5cc108e6bff6428b313dcb21fbfe.png" grupo -title = "Deportes", x | Espn 2
+http://appstv.us:2999/Maganates/Test/90
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/4ccf65c942a602a6610af89347cf39a3.png" grupo -title = "Deportes", x | Espn 3
+http://appstv.us:2999/Maganates/Test/91
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/366c96f330fadef386509ffb184a1372.png" grupo -title = "Deportes", x | Gol TV
+http://appstv.us:2999/Maganates/Test/115
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/64a5f025ddbb5e19569f00b74c91e398.png" grupo -title = "Deportes", x | Movistar La Liga
+http://appstv.us:2999/Maganates/Test/57
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/e25b5729ca0bcf5915ca4db730fd2a86.png" grupo -title = "Deportes", x | Sky Sports Liga española
+http://appstv.us:2999/Maganates/Test/191
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/e25b5729ca0bcf5915ca4db730fd2a86.png" grupo -title = "Deportes", x | Sky Sports Latino
+http://appstv.us:2999/Maganates/Test/191
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/b1eeaa01336242d6383d822d43108310.png" grupo -title = "Deportes", x | BEIN Sports Ñ
+http://appstv.us:2999/Maganates/Test/56
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/jpg/bb12b28de50329011693c39f68217089.jpg" grupo -title = "Deportes", x | Directv Sports 1
+http://appstv.us:2999/Maganates/Test/1047
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/66d9e3f9eb06bb171d475c97c50457c0.png" grupo -title = "Deportes", x | Directv Sports Plus
+http://appstv.us:2999/Maganates/Test/1048
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/jpg/9c9802ef93d114f3a65bace1090b1315.jpg" grupo -title = "Deportes", x | Movistar Deportes
+http://appstv.us:2999/Maganates/Test/93
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/jpg/004e26a79e835087b3640f4713e3a40a.jpg" grupo -title = "Deportes", x | Win Sports Plus
+http://appstv.us:2999/Maganates/Test/984
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "https://pbs.twimg.com/profile_images/1036977374414426112/Lp0GrFjk.jpg" grupo -title = "Deportes", x | Box nation
+http://appstv.us:2999/Maganates/Test/186
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/jpg/23ea329b27ec9b889c69e8d555901379.jpg" grupo -title = "Ciencia y Cultura", x | Canal Historia
+http://appstv.us:2999/Maganates/Test/123
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/547c3b0a4a00f5f578c831895b1fa29c.png" grupo -title = "Ciencia y Cultura", x | National Geographic
+http://appstv.us:2999/Maganates/Test/135
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/d3933fbd6eb737d9cc7e29ae46cf2b8d.png" grupo -title = "Ciencia y Cultura", x | H2 (Historia 2)
+http://appstv.us:2999/Maganates/Test/122
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/0cf6cc65eee7b1986cf878dae3a24d40.png" grupo -title = "Ciencia y Cultura", x | Nat Geo salvaje
+http://appstv.us:2999/Maganates/Test/133
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/3a82776a435d51e9148932ba62c3ca3b.png" grupo -title = "Ciencia y Cultura", x | Discovery Turbo
+http://appstv.us:2999/Maganates/Test/80
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/f12f300e41a267150e8b44151e0d98c1.png" grupo -title = "Ciencia y Cultura", x | Descubrimiento de investigación
+http://appstv.us:2999/Maganates/Test/75
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/f12f300e41a267150e8b44151e0d98c1.png" grupo -title = "Ciencia y Cultura", x | ID de investigación
+http://appstv.us:2999/Maganates/Test/75
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/jpg/b30fc225415d7dfa75c73846e72684a3.jpg" grupo -title = "Ciencia y Cultura", x | Descubrimiento H&H
+http://appstv.us:2999/Maganates/Test/74
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/e9318a4a93e70dc360e83820c784f77a.png" grupo -title = "Ciencia y Cultura", x | Descubrimiento TLC
+http://appstv.us:2999/Maganates/Test/79
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/b77f36fd9d112c19ae503ebfebe925a3.png" grupo -title = "Ciencia y Cultura", x | Mundo del descubrimiento
+http://appstv.us:2999/Maganates/Test/133
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/4963dea312fab125c6c057a513935119.png" grupo -title = "Ciencia y Cultura", x | Descubrimiento Familia
+http://appstv.us:2999/Maganates/Test/73
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "https://www.directv.com.pe/content/dam/public-sites/channels/1738.png" grupo -title = "Ciencia y Cultura", x | Nat geo mundo
+http://appstv.us:2999/Maganates/Test/133
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.brandemia.org/wp-content/uploads/2011/04/Imagen-10.png" grupo -title = "Ciencia y Cultura", x | CSI
+http://appstv.us:2999/Maganates/Test/77
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/1731.png" grupo -title = "Ciencia y Cultura", x | Discovery teacher
+http://appstv.us:2999/Maganates/Test/78
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/735.png" grupo -title = "Ciencia y Cultura", x | Nat geo wuild
+http://appstv.us:2999/Maganates/Test/134
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/207.png "group-title =" Variedad ", x | AE Mundo
+http://appstv.us:2999/Maganates/Test/52
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://vignette.wikia.nocookie.net/logopedia/images/7/7d/CanalUnoEcuador2019.png/revision/latest/scale-to-width-down/340?cb=20190602235259 "group-title =" Variedad ", x | Uno
+http://appstv.us:2999/Maganates/Test/53
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo_colored.png" grupo -title = "Variedad", x | Canal Discovey
+http://appstv.us:2999/Maganates/Test/70
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/507.png "group-title =" Variedad ", x | Cinecanal
+http://appstv.us:2999/Maganates/Test/64
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/514.png "group-title =" Variedad ", x | Cine latino
+http://appstv.us:2999/Maganates/Test/65
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/215.png "group-title =" Variedad ", x | Comedia Central Co
+http://appstv.us:2999/Maganates/Test/68
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/229.png "group-title =" Variedad ", x | Discovery Home Health Co
+http://appstv.us:2999/Maganates/Test/74
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/222.png "group-title =" Variedad ", x | ¡E! Entretenimiento
+http://appstv.us:2999/Maganates/Test/86
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/232.png "group-title =" Variedad ", x | El Gourmet.com
+http://appstv.us:2999/Maganates/Test/88
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/233.png "group-title =" Variedad ", x | Food channel
+http://appstv.us:2999/Maganates/Test/95
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/202.png "group-title =" Variedad ", x | Fox Chanel
+http://appstv.us:2999/Maganates/Test/97
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/202.png" group-title="Variedad",x | Fox Chanel
+http://appstv.us:2999/Maganates/Test/97
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/212.png" group-title="Variedad",x | Fox Life
+http://appstv.us:2999/Maganates/Test/102
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="Variedad",x | FXM
+http://appstv.us:2999/Maganates/Test/111
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/224.png" group-title="Variedad",x | Glitz
+http://appstv.us:2999/Maganates/Test/114
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/221.png" group-title="Variedad",x | HOLA! TV
+http://appstv.us:2999/Maganates/Test/124
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/223.png" group-title="Variedad",x | Investigation Discovery
+http://appstv.us:2999/Maganates/Test/75
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/226.png" group-title="Variedad",x | Las estrellas
+http://appstv.us:2999/Maganates/Test/61
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/228.png" group-title="Variedad",x | Lifetime
+http://appstv.us:2999/Maganates/Test/126
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/230.png" group-title="Variedad",x | Mas chic
+http://appstv.us:2999/Maganates/Test/127
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/225.png" group-title="Variedad",x | Pasiones
+http://appstv.us:2999/Maganates/Test/139
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/219.png" group-title="Variedad",x | Syfy
+http://appstv.us:2999/Maganates/Test/149
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/216.png" group-title="Variedad",x | TBS
+http://appstv.us:2999/Maganates/Test/150
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/231.png" group-title="Variedad",x | Telemundo
+http://appstv.us:2999/Maganates/Test/154
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/227.png" group-title="Variedad",x | Tlnovelas
+http://appstv.us:2999/Maganates/Test/155
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/213.png" group-title="Variedad",x | TNT Series
+http://appstv.us:2999/Maganates/Test/157
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/220.png" group-title="Variedad",x | TruTV
+http://appstv.us:2999/Maganates/Test/159
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/218.png" group-title="Variedad",x | Universal Channel
+http://appstv.us:2999/Maganates/Test/175
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/1508.png" group-title="Variedad",x | Studio Universal
+http://appstv.us:2999/Maganates/Test/147
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/206.png" group-title="Variedad",x | Warner
+http://appstv.us:2999/Maganates/Test/178
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/b332418fadc3882047eca6eeb402870f.png" group-title="Variedad",x | Golden Premier
+http://appstv.us:2999/Maganates/Test/116
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/9a304c76972d3dbef05a1001dd6249af.png" group-title="Variedad",x | Golden Plus
+http://appstv.us:2999/Maganates/Test/117
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/524.png" group-title="Variedad",x | HBO
+http://appstv.us:2999/Maganates/Test/118
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/509.png" group-title="Variedad",x | Cinemax
+http://appstv.us:2999/Maganates/Test/66
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/1518.png" group-title="Variedad",x | Space
+http://appstv.us:2999/Maganates/Test/144
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://3.bp.blogspot.com/-VU0BU4aKABs/XwmPmMAWzCI/AAAAAAAAAUU/SeXCxQXyHtICOKKjfDgMxeH6Tll2Z9vNQCLcBGAsYHQ/s320/logo.png" group-title="Variedad",x | TMC
+http://appstv.us:2999/Maganates/Test/151
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/502.png" group-title="Variedad",x | TNT
+http://appstv.us:2999/Maganates/Test/156
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/516.png" group-title="Variedad",x | De pelicula
+http://appstv.us:2999/Maganates/Test/69
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/520.png" group-title="Variedad",x | I Sat
+http://appstv.us:2999/Maganates/Test/143
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/6ec6ae09081cdd4ae404521079260372.png" group-title="Entretenimiento",x | TruTV
+http://appstv.us:2999/Maganates/Test/159
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/jpg/8532814207aedc93009e4c2da0ae0a8b.jpg" group-title="Entretenimiento",x | Comedy Central
+http://appstv.us:2999/Maganates/Test/68
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/jpg/ab4626b86dd61098680531656f282fe9.jpg" group-title="Entretenimiento",x | E! Entertaiment
+http://appstv.us:2999/Maganates/Test/86
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/090a767b36a0b7a085c53a042b2fb082.png" group-title="Entretenimiento",x | El Gourmet
+http://appstv.us:2999/Maganates/Test/88
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/jpg/131bf241d9c1b73cd99eb54b88dd7e83.jpg" group-title="Entretenimiento",x | Food Network
+http://appstv.us:2999/Maganates/Test/95
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/jpg/1fe16ec9d2f62ac324718fa37bc31d2a.jpg" group-title="Entretenimiento",x | Hola TV
+http://appstv.us:2999/Maganates/Test/124
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/4963dea312fab125c6c057a513935119.png" group-title="Entretenimiento",x | Discovery Familia
+http://appstv.us:2999/Maganates/Test/73
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/40baeb106b765beb50898f23e2d2ef35.png" group-title="Entretenimiento",x | Las Estrellas
+http://appstv.us:2999/Maganates/Test/61
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/92dc26aa11cabce09d8b559c3597b979.png" group-title="Entretenimiento",x | Lifetime
+http://appstv.us:2999/Maganates/Test/126
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/feec04d255e519dcc0f94f34bde6557b.png" group-title="Entretenimiento",x | Mas Chic
+http://appstv.us:2999/Maganates/Test/127
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/7c0fcd92574084f9b09f20b6ab01ef12.png" group-title="Entretenimiento",x | TBS
+http://appstv.us:2999/Maganates/Test/150
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/jpg/e469ce9fb8f9dea93a0e9c9f0f96f82a.jpg" group-title="Entretenimiento",x | Pasiones
+http://appstv.us:2999/Maganates/Test/139
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/aa658dfec273fdefdb2733f71271da80.png" group-title="Entretenimiento",x | Telemundo
+http://appstv.us:2999/Maganates/Test/154
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/fe56b1aed55f06a90e4ef7367e3c45f8.png" group-title="Entretenimiento",x | Tlnovelas
+http://appstv.us:2999/Maganates/Test/155
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/HGTV_Canada_2012_logo.svg/1200px-HGTV_Canada_2012_logo.svg.png" group-title="Entretenimiento",x | GHTV
+http://appstv.us:2999/Maganates/Test/71
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Entretenimiento",x | Distrito comedia
+http://appstv.us:2999/Maganates/Test/85
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://w7.pngwing.com/pngs/707/728/png-transparent-el-paso-ktsm-tv-television-channel-news-tv-static-television-heart-logo.png" group-title="Novelas",x | Corazon
+http://appstv.us:2999/Maganates/Test/51
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://vignette.wikia.nocookie.net/doblaje/images/a/a9/Azteca_7_Logo.png/revision/latest/scale-to-width-down/340?cb=20140426231035&path-prefix=es" group-title="Novelas",x | 7 azteca
+http://appstv.us:2999/Maganates/Test/54
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/40baeb106b765beb50898f23e2d2ef35.png" group-title="Novelas",x | Las Estrellas
+http://appstv.us:2999/Maganates/Test/61
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/fe56b1aed55f06a90e4ef7367e3c45f8.png" group-title="Novelas",x | Novela 1
+http://appstv.us:2999/Maganates/Test/62
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/224.png" group-title="Novelas",x | Glitz
+http://appstv.us:2999/Maganates/Test/114
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Novelas",x | Imagen tv
+http://appstv.us:2999/Maganates/Test/125
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/jpg/e469ce9fb8f9dea93a0e9c9f0f96f82a.jpg" group-title="Novelas",x | Pasiones
+http://appstv.us:2999/Maganates/Test/139
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="Novelas",x | RCN
+http://appstv.us:2999/Maganates/Test/140
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/fe56b1aed55f06a90e4ef7367e3c45f8.png" group-title="Entretenimiento",x | Tlnovelas
+http://appstv.us:2999/Maganates/Test/155
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="Entretenimiento",x | Unicable
+http://appstv.us:2999/Maganates/Test/173
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/202.png" group-title="Peliculas",x | Fox Chanel
+http://appstv.us:2999/Maganates/Test/97
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/524.png" group-title="Peliculas",x | HBO
+http://appstv.us:2999/Maganates/Test/118
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/524.png" group-title="Peliculas",x | HBO 2
+http://appstv.us:2999/Maganates/Test/119
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/8e9d7215e891ee03f0fa1dd0520380a8.png" grupo -title = "Peliculas", x | Familia HBO
+http://appstv.us:2999/Maganates/Test/120
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/c7863ca6153e211787fca3ca37eb712c.png" grupo -title = "Peliculas", x | HBO Plus
+http://appstv.us:2999/Maganates/Test/121
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/d1dc9f679c481f814452e51f8d61894d.png" grupo -title = "Peliculas", x | HBO Xtreme
+http://appstv.us:2999/Maganates/Test/128
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/503.png" grupo -title = "Peliculas", x | Golden
+http://appstv.us:2999/Maganates/Test/116
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/b332418fadc3882047eca6eeb402870f.png" group-title="Peliculas",x | Golden Premier
+http://appstv.us:2999/Maganates/Test/116
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://go.moonplay.xyz/uploads/cache/channel_thumb/uploads/png/9a304c76972d3dbef05a1001dd6249af.png" group-title="Peliculas",x | Golden Plus
+http://appstv.us:2999/Maganates/Test/117
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/1502.png" group-title="Peliculas",x | TNT hd
+http://appstv.us:2999/Maganates/Test/156
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/213.png" group-title="Peliculas",x | TNT Series
+http://appstv.us:2999/Maganates/Test/157
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/1518.png" group-title="Peliculas",x | Space
+http://appstv.us:2999/Maganates/Test/144
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/509.png" group-title="Peliculas",x | Cinemax
+http://appstv.us:2999/Maganates/Test/66
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/218.png" group-title="Peliculas",x | Universal Channel
+http://appstv.us:2999/Maganates/Test/175
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/1508.png" group-title="Peliculas",x | Studio Universal
+http://appstv.us:2999/Maganates/Test/147
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/206.png" group-title="Peliculas",x | Warner
+http://appstv.us:2999/Maganates/Test/178
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://i.postimg.cc/Qd4vCkLt/02-Ondemand.png" group-title="Peliculas",x | ONDEMAND
+http://appstv.us:2999/Maganates/Test/105.
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/509.png" group-title="Peliculas",x | Cinemax
+http://appstv.us:2999/Maganates/Test/66
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/516.png" group-title="Peliculas",x | De pelicula
+http://appstv.us:2999/Maganates/Test/69
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/507.png "group-title =" Peliculas ", x | Cinecanal
+http://appstv.us:2999/Maganates/Test/64
+#EXTINF: -1 tvg-id = "" tvg-name = "NIÑOS | BOOMERANG" tvg-logo = "http://www.directv.com.pe/content/dam/public-sites/channels/514.png "group-title =" Peliculas ", x | Cine latino
+http://appstv.us:2999/Maganates/Test/65
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="Peliculas",x | FXM
+http://appstv.us:2999/Maganates/Test/111
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="imagen" group-title="Peliculas",x | Pelicula 1
+http://appstv.us:2999/Maganates/Test/142
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="imagen" group-title="Peliculas",x | Pelicula 2
+http://appstv.us:2999/Maganates/Test/143
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/1508.png" group-title="Peliculas",x | Studio Universal
+http://appstv.us:2999/Maganates/Test/147
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://cdn.mitvstatic.com/channels/cl_sundance-channel_m.png" group-title="Peliculas",x | SUNDANCE
+http://appstv.us:2999/Maganates/Test/148
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="http://www.directv.com.pe/content/dam/public-sites/channels/219.png" group-title="Peliculas",x | Syfy
+http://appstv.us:2999/Maganates/Test/149
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/TMC_logo.jpg" group-title="Peliculas",x | TMC
+http://appstv.us:2999/Maganates/Test/151
