@@ -47,6 +47,18 @@
   "icon":
      "whatsapp"
  },
+{
+  "title":
+     "BOTIN",
+  "link":
+     "https://mintweb.tk/",
+  "behavior":
+     "INAPP",
+  "premium":
+     "false",
+  "icon":
+     "whatsapp"
+ },
  {
   "title":
      "Youtube",
