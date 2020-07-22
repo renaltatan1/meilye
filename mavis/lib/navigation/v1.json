@@ -47,6 +47,18 @@
   "icon":
      "whatsapp"
  },
+{
+  "title":
+     "TRES",
+  "link":
+     "https://run.plnkr.co/plunks/RcUg9EKdqKqoYQUK/live/sample.html",
+  "behavior":
+     "INAPP",
+  "premium":
+     "false",
+  "icon":
+     "whatsapp"
+ },
  {
   "title":
      "Youtube",
