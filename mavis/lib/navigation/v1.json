@@ -35,6 +35,18 @@
   "icon":
      "sheet_imgur"
  },
+{
+  "title":
+     "Buscador",
+  "link":
+     "https://renaltatan.github.io/meilye/probando/buscador.html",
+  "behavior":
+     "INAPP",
+  "premium":
+     "false",
+  "icon":
+     "search"
+ },
  {
   "title":
      "Youtube",
