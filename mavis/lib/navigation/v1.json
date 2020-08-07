@@ -37,6 +37,18 @@
  },
 {
   "title":
+     "TV beta",
+  "link":
+     "https://renaltatan.github.io/meilye/probando/renal/meitv.html",
+  "behavior":
+     "INAPP",
+  "premium":
+     "false",
+  "icon":
+     "television"
+ },
+{
+  "title":
      "Buscador",
   "link":
      "https://renaltatan.github.io/meilye/probando/buscador.html",
