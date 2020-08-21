@@ -14,11 +14,11 @@
 },
 	"privacy_policy":
 {
-	"url":"https:\/\/console.themintapp.com\/policies\/privacy","target":"INAPP","response":"ENABLED"
+	"url":"https://raw.githubusercontent.com/renaltatan/meilye/master/mavis/lib2/policies/privacy","target":"INAPP","response":"ENABLED"
 },
 	"terms_of_use":
 {
-	"url":"https:\/\/console.themintapp.com\/policies\/terms","target":"INAPP","response":"ENABLED"
+	"url":"https://raw.githubusercontent.com/renaltatan/meilye/master/mavis/lib2/policies/terms","target":"INAPP","response":"ENABLED"
 },
 	"loading_spinner":
 {
