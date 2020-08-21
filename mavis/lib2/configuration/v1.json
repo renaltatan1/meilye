@@ -1,1 +1,90 @@
-{"app":{"system":{"base_url":{"url":"https://antud-9f386.web.app/","certificate":"SECURE"},"email_address":{"email":"belladona.rf@gmail.com"},"loading_spinner":{"style":"ThreeBounce"}},"settings":{"dark_mode":"true","screen_sleep":"true","fullscreen_mode":"true","notification_sound_option":"true","notification_vibration_option":"true","download_via_wifi":"true","device_information":"true","other_links":"true","danger_zone":"true"},"preferences":{"navigation":{"default":"BOTTOM","customization":"ENABLE"},"get_started_page":"true","force_fullscreen":"false","bookmarks_page":"true","downloads_page":"true"},"admob":{"app_id":"exception:error?admob_app_id","native_unit":"exception:error?admob_native_ad_unit","interstitial_unit":"exception:error?admob_intersitial_ad_unit","rewarded_unit":"exception:error?admob_rewarded_ad_unit"},"providers":{"youtube":{"api_key":"AIzaSyAv3bUlIkMHH9rEId3ozros5BzDb5Oov-I","per_page":"20","channel_id":"UCEZMnlkOLQflk7zb9rvn2Tg","video_style":""},"facebook":{"access_token":"exception:error?facebook_access_token","per_page":"exception:error?facebook_per_page","username":"exception:error?facebook_username"},"vimeo":{"access_token":"exception:error?vimeo_api_key","per_page":"exception:error?vimeo_per_page","username":"exception:error?vimeo_username","video_style":""},"pinterest":{"access_token":"exception:error?pinterest_acccess_token","per_page":"exception:error?pinterest_per_page","username":"exception:error?pinterest_username","board_name":"exception:error?pinterest_board_name"},"imgur":{"access_token":"exception:error?imgur_acccess_token","per_page":"exception:error?imgur_per_page","username":"exception:error?imgur_username"},"google_maps":{"map_style":"exception:error?google_maps_style"},"wordpress":{"base_url":"","category_style":"","post_style":"","per_page":""}}}}
+  
+{
+"app":{
+ "system":{
+	"base_url":{
+	"url":					"https://antud-9f386.web.app/",
+	"certificate":				"SECURE"},
+	"email_address":
+{
+	"email":				"meibis.oficial@gmail.com"},
+	"privacy_policy": {
+	"url":					"https://renaltatan.github.io/meilye/mavis/politic/privacidad.html",
+	"target":				"INAPP",
+	"response":				"ENABLED"
+},
+	"terms_of_use": {
+	"url":					"https://renaltatan.github.io/meilye/mavis/politic/dmc.html",
+	"target":				"INAPP",
+	"response":				"ENABLED"
+},
+	"loading_spinner":
+{
+	"style":				"ThreeBounce"
+}
+},
+	"settings":{
+	"dark_mode": 				"true",
+	"screen_sleep": 			"true",
+	"fullscreen_mode": 			"true",
+	"notification_sound_option":		"true",
+	"notification_vibration_option":	"true",
+	"download_via_wifi":			"true",
+	"device_information":			"true",
+	"other_links":				"true",
+	"danger_zone":				"false"
+},
+	"preferences":
+{
+	"navigation":
+{
+	"default":				"BOTTOM",
+	"customization":			"ENABLE"
+},
+	"get_started_page":			"true",
+	"force_fullscreen":			"true",
+	"bookmarks_page":			"true",
+	"downloads_page":			"true"
+},
+"admob":
+{
+	"app_id":				"ca-app-pub-3940256099942544~3347511713",
+	"native_unit":				"ca-app-pub-3940256099942544/2247696110",
+	"interstitial_unit":			"ca-app-pub-3940256099942544/8691691433",
+	"rewarded_unit":			"ca-app-pub-3940256099942544/5224354917"
+},
+"providers":
+{
+"youtube":
+{
+"api_key":					"exception:error?youtube_api_key",
+"per_page":					"exception:error?youtube_per_page",
+"channel_id":					"exception:error?youtube_channel_id"},
+"facebook":
+{
+"access_token":					"EAALZBv9stybUBAAtZC7qtIux5OHwjVjxRkd8nswUnuKthG0kO9LoBWiXIqRQxJixw5adxA7c6BVfyAhvGXhOev0BxFqyFMJxznzJH3BJgOugr1TcbKe1VuByuQTVdYEbQvZA0sDQZBuZCjgqCjG3gB19jeYKOEArpa9DqEZAekQHerioYi7UtI",
+"per_page":					"20",
+"username":					"meibis.oficial"},
+"vimeo":
+{
+"access_token":					"exception:error?vimeo_api_key",
+"per_page":					"exception:error?vimeo_per_page",
+"username":					"exception:error?vimeo_username"},
+"pinterest":
+{
+"access_token":					"exception:error?pinterest_acccess_token",
+"per_page":					"exception:error?pinterest_per_page",
+"username":					"exception:error?pinterest_username",
+"board_name":					"exception:error?pinterest_board_name"
+},
+"imgur":
+{
+"access_token":					"exception:error?imgur_acccess_token",
+"per_page":					"exception:error?imgur_per_page",
+"username":					"exception:error?imgur_username"
+},
+"google_maps":
+{"map_style":					"map_dark_map"
+}
+}
+}}	
