@@ -1,0 +1,84 @@
+{
+  "app": {
+    "system": {
+      "base_url": {
+        "url": "https://google.com",
+        "certificate": "SECURE"
+      },
+      "email_address": {
+        "email": "email@example.com"
+      },
+      "privacy_policy": {
+        "url": "privacy.privacy.com",
+        "target": "INAPP",
+        "response": "ENABLED"
+      },
+      "terms_of_use": {
+        "url": "terms.privacy.com",
+        "target": "INAPP",
+        "response": "ENABLED"
+      },
+      "loading_spinner": {
+        "style": "ThreeBounce"
+      }
+    },
+    "settings": {
+      "dark_mode": "true",
+      "screen_sleep": "true",
+      "fullscreen_mode": "true",
+      "notification_sound_option": "true",
+      "notification_vibration_option": "true",
+      "download_via_wifi": "true",
+      "device_information": "true",
+      "other_links": "true",
+      "danger_zone": "true"
+    },
+    "preferences": {
+      "navigation": {
+        "default": "BOTTOM",
+        "customization": "ENABLED"
+      },
+      "get_started_page": "true",
+      "force_fullscreen": "false",
+      "bookmarks_page": "true",
+      "downloads_page": "true"
+    },
+    "admob": {
+      "app_id": "ca-app-pub-8654521885094908~43814280144",
+      "native_unit": "ca-app-pub-8654527415094908/2710122246",
+      "interstitial_unit": "ca-app-pub-8654557885094908/6692534839",
+      "rewarded_unit": "ca-app-pub-8654527814094908/2221631802"
+    },
+    "providers": {
+      "youtube": {
+        "api_key": "AIzaSyBLOJ6Kjbr0JrqDw25H9rnec8XxAlu8",
+        "per_page": "20",
+        "channel_id": "UCBJycsmduqi2D83R_U4JriQ"
+      },
+      "facebook": {
+        "access_token": "EAACAirjie94E21weLYWjRBe99GOA9oYPUt6BNbXNLmlZAvZCFk0AC3X2facNpCnragj0E3IXBxgNhXuxhcXG8JdC6h6hqbQUQsITHszv3H7NFoeGa3zKmWeXL1loU3wHQ3C8YelEFcV3ZBvZBZCGZBwgIZAdvJ7J1B3wxuAZDZD",
+        "per_page": "20",
+        "username": "example"
+      },
+      "vimeo": {
+        "access_token": "abdffdcc58fdeas29ffe6470cf92d5d",
+        "per_page": "20",
+        "username": "manera"
+      },
+      "pinterest": {
+        "access_token": "AomxgBrFVUqOg9sCOaaK-XANLTXRFfX8vETX1pJGjUHKhMDRqD8h2FgAqF7Ro-8YI5guYAAAAAA",
+        "per_page": "20",
+        "username": "example",
+        "board_name": "example-placeholder"
+      },
+      "imgur": {
+        "access_token": "Aomxghi18eJda9sCOaaK-XANLTXRFfX8vETX1pJGjUHKhMDRqgpxgDSVSqF7Ro-87U5guYAAAAAA",
+        "per_page": "10",
+        "username": "example"
+      },
+      "google_maps": {
+        "map_style": "map_dark"
+      }
+    }
+  }
+}
