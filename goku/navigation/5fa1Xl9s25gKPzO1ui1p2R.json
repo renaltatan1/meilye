@@ -1,0 +1,10 @@
+{
+  "navigations": [
+    {
+      "title": "Premium",
+      "link": "https://google.com",
+      "behavior": "INAPP",
+      "premium": "true"
+    }
+  ]
+}
