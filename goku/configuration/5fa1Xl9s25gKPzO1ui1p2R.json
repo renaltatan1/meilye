@@ -2,7 +2,7 @@
   "app": {
     "system": {
       "base_url": {
-        "url": "https://url.com",
+        "url": "https://www.google.com/",
         "certificate": "SECURE"
       },
       "email_address": {
