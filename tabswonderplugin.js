@@ -1,6 +1,6 @@
 /** Wonderplugin Tabs Plugin Pro Version
  * Copyright 2019 Magic Hills Pty Ltd All Rights Reserved
- * Website: http://www.wonderplugin.com
+ * Website: http://www.wonderplugin.compmr  ptmr
  * Version 7.2 
  */
 if(typeof wonderpluginTabsObjects==="undefined")var wonderpluginTabsObjects=new function(){this.objects=[];this.addObject=function(obj){this.objects.push(obj)}};
