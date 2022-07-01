@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - @pe/pdf-viewer pen</title>
+  <link rel="stylesheet" href="https://rodear.000webhostapp.com/pdfviewer/dist/style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!-- using the latest @pe/pdf-viewer v3 -->
+<script src="https://rodear.000webhostapp.com/pdfviewer/dist/bundle.js"></script>
+<div id="viewer"></div>
+<!-- partial -->
+  <script>
+(async () => {
+  const file = 'https://renaltatan.github.io/meily/Per%C3%BAQuiosco%2011_06_2022%2019_34_22.pdf';
+
+  const viewer = await pe.PdfViewerControl.create({
+    container: document.querySelector('#viewer'),
+    sourceDocument: file,
+    licenseKey: 'eval',
+    allowedControls: {
+      fullScreenToggle: true,
+      nextAndPreviousPageButtons: true,
+      pageNumberAndCount: true,
+      printing: true,
+      search: true,
+      thumbnails: true,
+      annotationList: true,
+      zoomInAndOutButtons: true,
+      ellipseTool: true,
+      freehandDrawingTool: true,
+      freehandSignatureTool: true,
+      lineTool: true,
+      rectangleTool: true,
+      textHighlightTool: true
+    }
+  });
+})().catch(err => {
+  console.log(err);
+});
+    </script>
+
+</body>
+</html>
+
+
+
