@@ -21,16 +21,16 @@ var dynamicLoading = {
     type: 't2022022201',
     time: '1649663375'
 }
-dynamicLoading.css('/Metro/style.css')
-dynamicLoading.css('/Metro/player.css')
-dynamicLoading.css('/Metro/phoneTemplate.css')
-dynamicLoading.css('/Metro/template.css')
-dynamicLoading.css('/Metro/hiSlider2.min.css')
-dynamicLoading.css('/Metro/FlipBookPlugins.min.css')
-dynamicLoading.js('/Metro/jquery-3.5.1.min.js', function () {
-    dynamicLoading.js('/Metro/main.js', function () {
+dynamicLoading.css('https://renaltatan.github.io/meilye/ggmon/Metro/style.css')
+dynamicLoading.css('https://renaltatan.github.io/meilye/ggmon/Metro/player.css')
+dynamicLoading.css('https://renaltatan.github.io/meilye/ggmon/Metro/phoneTemplate.css')
+dynamicLoading.css('https://renaltatan.github.io/meilye/ggmon/Metro/template.css')
+dynamicLoading.css('https://renaltatan.github.io/meilye/ggmon/Metro/hiSlider2.min.css')
+dynamicLoading.css('https://renaltatan.github.io/meilye/ggmon/Metro/FlipBookPlugins.min.css')
+dynamicLoading.js('https://renaltatan.github.io/meilye/ggmon/Metro/jquery-3.5.1.min.js', function () {
+    dynamicLoading.js('https://renaltatan.github.io/meilye/ggmon/Metro/main.js', function () {
     })
-    dynamicLoading.js('/Metro/visitinfo.js')
-    dynamicLoading.js('/Metro/flipHtml5.hiSlider2.min.js')
-    dynamicLoading.js('/Metro/FlipBookPlugins.min.js')
+    dynamicLoading.js('https://renaltatan.github.io/meilye/ggmon/Metro/visitinfo.js')
+    dynamicLoading.js('https://renaltatan.github.io/meilye/ggmon/Metro/flipHtml5.hiSlider2.min.js')
+    dynamicLoading.js('https://renaltatan.github.io/meilye/ggmon/Metro/FlipBookPlugins.min.js')
 })
