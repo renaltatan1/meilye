@@ -1,0 +1,12 @@
+.page__content {
+  background-color: #121212 !important;
+}
+
+h1, h2, h3, h4, h5, h6, p, small, .card__content, ons-list-item {
+  color: #FFF !important;
+}
+
+.card, ons-list-item, input {
+  background-color: #212121 !important;
+}
+}
